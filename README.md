@@ -6,3 +6,4 @@ Handball
 Running
 Tennis
 Basketball
+Ski
